@@ -1,0 +1,18 @@
+c:\users\sayediftikhar\documents\visual studio 2013\Projects\HealthCare\HealthCare\bin\HealthCare.dll.config
+c:\users\sayediftikhar\documents\visual studio 2013\Projects\HealthCare\HealthCare\bin\HealthCare.dll
+c:\users\sayediftikhar\documents\visual studio 2013\Projects\HealthCare\HealthCare\bin\HealthCare.pdb
+c:\users\sayediftikhar\documents\visual studio 2013\Projects\HealthCare\HealthCare\obj\Debug\HealthCare.dll
+c:\users\sayediftikhar\documents\visual studio 2013\Projects\HealthCare\HealthCare\obj\Debug\HealthCare.pdb
+C:\Users\SAYEDIFTIKHAR\documents\visual studio 2013\Projects\HealthCare\HealthCare\obj\Debug\HealthCare.csprojResolveAssemblyReference.cache
+C:\Users\SAYEDIFTIKHAR\Desktop\HealthCare\HealthCare\bin\HealthCare.dll.config
+C:\Users\SAYEDIFTIKHAR\Desktop\HealthCare\HealthCare\bin\HealthCare.dll
+C:\Users\SAYEDIFTIKHAR\Desktop\HealthCare\HealthCare\bin\HealthCare.pdb
+C:\Users\SAYEDIFTIKHAR\Desktop\HealthCare\HealthCare\obj\Debug\HealthCare.csprojResolveAssemblyReference.cache
+C:\Users\SAYEDIFTIKHAR\Desktop\HealthCare\HealthCare\obj\Debug\HealthCare.dll
+C:\Users\SAYEDIFTIKHAR\Desktop\HealthCare\HealthCare\obj\Debug\HealthCare.pdb
+E:\HealthCare\HealthCare\bin\HealthCare.dll.config
+E:\HealthCare\HealthCare\bin\HealthCare.dll
+E:\HealthCare\HealthCare\bin\HealthCare.pdb
+E:\HealthCare\HealthCare\obj\Debug\HealthCare.csprojResolveAssemblyReference.cache
+E:\HealthCare\HealthCare\obj\Debug\HealthCare.dll
+E:\HealthCare\HealthCare\obj\Debug\HealthCare.pdb
